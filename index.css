@@ -1,0 +1,22 @@
+.image-area{
+  
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.image-area img{
+    height: 120px;
+    margin: 1px;
+}
+#contact form input{
+    border: 1px solid gray;
+    margin: 10px;
+}
+#contact form p{
+    color: black;
+    margin-left: 15px;
+    font-weight: bold;
+}
+#contact form textarea{
+    border: 1px solid gray;
+    margin: 10px;
+}
